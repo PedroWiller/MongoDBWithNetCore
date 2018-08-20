@@ -1,0 +1,11 @@
+C:\Users\Pedro Figueredo\Desktop\Repository\ClassMongoConnection\ClassMongoConnection\ClassMongoConnection\bin\Debug\netcoreapp2.0\ClassMongoConnection.deps.json
+C:\Users\Pedro Figueredo\Desktop\Repository\ClassMongoConnection\ClassMongoConnection\ClassMongoConnection\bin\Debug\netcoreapp2.0\ClassMongoConnection.runtimeconfig.json
+C:\Users\Pedro Figueredo\Desktop\Repository\ClassMongoConnection\ClassMongoConnection\ClassMongoConnection\bin\Debug\netcoreapp2.0\ClassMongoConnection.runtimeconfig.dev.json
+C:\Users\Pedro Figueredo\Desktop\Repository\ClassMongoConnection\ClassMongoConnection\ClassMongoConnection\bin\Debug\netcoreapp2.0\ClassMongoConnection.dll
+C:\Users\Pedro Figueredo\Desktop\Repository\ClassMongoConnection\ClassMongoConnection\ClassMongoConnection\bin\Debug\netcoreapp2.0\ClassMongoConnection.pdb
+C:\Users\Pedro Figueredo\Desktop\Repository\ClassMongoConnection\ClassMongoConnection\ClassMongoConnection\obj\Debug\netcoreapp2.0\ClassMongoConnection.csprojAssemblyReference.cache
+C:\Users\Pedro Figueredo\Desktop\Repository\ClassMongoConnection\ClassMongoConnection\ClassMongoConnection\obj\Debug\netcoreapp2.0\ClassMongoConnection.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Figueredo\Desktop\Repository\ClassMongoConnection\ClassMongoConnection\ClassMongoConnection\obj\Debug\netcoreapp2.0\ClassMongoConnection.AssemblyInfoInputs.cache
+C:\Users\Pedro Figueredo\Desktop\Repository\ClassMongoConnection\ClassMongoConnection\ClassMongoConnection\obj\Debug\netcoreapp2.0\ClassMongoConnection.AssemblyInfo.cs
+C:\Users\Pedro Figueredo\Desktop\Repository\ClassMongoConnection\ClassMongoConnection\ClassMongoConnection\obj\Debug\netcoreapp2.0\ClassMongoConnection.dll
+C:\Users\Pedro Figueredo\Desktop\Repository\ClassMongoConnection\ClassMongoConnection\ClassMongoConnection\obj\Debug\netcoreapp2.0\ClassMongoConnection.pdb
